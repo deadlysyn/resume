@@ -16,7 +16,7 @@ I am passionate about DevOps culture and SRE principles as ways to rally people 
 
 I am familiar with multiple cloud infrastrcuture providers, including Amazon Web Services and Google Cloud, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in agile development practices, lean product thinking, and infrastructure as code. I am pragmatic in both my work style and technology choices, seeing the world as a series of tradeoffs that must be carefully considered and occasionally reevaluted.
 
-I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to code in a variety of languages.
+I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
 
 ### Guiding Principles
 
