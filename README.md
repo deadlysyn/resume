@@ -10,13 +10,13 @@ My primary objective in life is to have an impact... on my team, my community, a
 
 ### About Me
 
-I am a humble, collaborative, ambitious, and continuously improving infrastructure/DevOps engineer. I have been delivering large-scale distributed systems and mission critical infrastructure services for over two decades. In that time I have developed a wide range of experience which includes being an individual contributor, technical lead, architect and hands-on manager.
+I am a humble, collaborative, ambitious, and continuously improving DevOps engineer. I have been delivering large-scale distributed systems and mission critical infrastructure services for over two decades. In that time I have developed a wide range of experience which includes being an individual contributor, technical lead, architect and hands-on manager.
 
-I am passionate about DevOps culture and SRE principles as ways to rally people with diverse backgrounds around shared outcomes -- increasing productivity while simultaneously improving quality of life through tenancious pursuit of automation and elimination of toil.
+I am passionate about DevOps culture and SRE principles as ways to rally people with diverse backgrounds around shared outcomes; increasing productivity while simultaneously improving quality of life through tenacious pursuit of automation and elimination of toil.
 
-I am familiar with multiple cloud infrastrcuture providers, including Amazon Web Services and Google Cloud, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in agile development practices, lean product thinking, and infrastructure as code. I am pragmatic in both my work style and technology choices, seeing the world as a series of tradeoffs that must be carefully considered and occasionally reevaluted.
+I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in agile development practices, lean product thinking, and infrastructure as code.
 
-I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
+I am pragmatic in both my work style and technology choices, seeing the world as a series of tradeoffs that must be carefully considered and occasionally reevaluated. I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
 
 ### Guiding Principles
 
