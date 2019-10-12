@@ -61,10 +61,11 @@ These quotes have always been near and dear to my heart:
 ### Key Skills
 
 - Disciplines: DevOps, Site Reliability Engineering
-- Languages: Shell, Node.js, Go, SQL/noSQL
+- Languages: Shell, Node.js, Go, SQL/NoSQL
 - Cloud Platforms: Amazon Web Services, Google Cloud Platform
 - Container Orchestrators: Kubernetes, Cloud Foundry
 - Infrastructure as Code: Puppet, Ansible, Terraform
+- Observability: Nagios, Icinga, Sensu, Graphite, Prometheus, Grafana, ELK
 - Continuous Integration: Jenkins, Drone, Concourse
 
 ### Recent Training
