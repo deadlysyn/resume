@@ -14,7 +14,7 @@ I am a humble, collaborative, ambitious, and continuously improving DevOps engin
 
 I am passionate about DevOps culture and SRE principles as ways to rally people with diverse backgrounds around shared outcomes; increasing productivity while simultaneously improving quality of life through tenacious pursuit of automation and elimination of toil.
 
-I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in agile development practices, lean product thinking, and infrastructure as code.
+I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud Platform, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in Agile/XP practices, Lean Product Development, and Infrastructure as Code.
 
 I am pragmatic in both my work style and technology choices, seeing the world as a series of tradeoffs that must be carefully considered and occasionally reevaluated. I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
 
@@ -60,12 +60,12 @@ These quotes have always been near and dear to my heart:
 
 ### Key Skills
 
-- Disciplines: DevOps, Site Reliability Engineering
-- Languages: Shell, Node.js, Go, SQL/NoSQL
+- Disciplines: DevOps Infrastructure Engineering, Site Reliability Engineering
+- Languages: Bash, Node.js, Go, Python, SQL/NoSQL
 - Cloud Platforms: Amazon Web Services, Google Cloud Platform
 - Container Orchestrators: Kubernetes, Cloud Foundry
-- Infrastructure as Code: Puppet, Ansible, Terraform
-- Observability: Nagios, Icinga, Sensu, Graphite, Prometheus, Grafana, ELK
+- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform
+- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK
 - Continuous Integration: Jenkins, Drone, Concourse
 
 ### Recent Training
