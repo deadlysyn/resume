@@ -6,7 +6,7 @@ unixdoes@gmail.com | LinkedIn https://www.linkedin.com/in/mikehoskins
 
 ### Objective
 
-My primary objective in life is to have an impact... on my team, my community, and the world. Accomplishing that by delivering software and infrastructure solutions to real-world challenges while developing and using free and open-source software is my dream.
+My primary objective in life is to have an impact... on my team, my community, and the world. Accomplishing that by delivering software and infrastructure solutions to real-world challenges while developing and using Free and Open Source Software is my dream.
 
 ### About Me
 
