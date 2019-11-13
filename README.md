@@ -77,6 +77,6 @@ These quotes have always been near and dear to my heart:
 - Cloud Foundry Developer Training (2018)
 - Full-Stack Web Development (2018)
 - Building Web Services in Go (2017)
-- Lean Startup Workshop (2017)
+- AWS DevOps Engineer (2017)
 - Intermediate Python (2016)
 - Systems Operations on AWS (2015)
