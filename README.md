@@ -31,40 +31,41 @@ These quotes have always been near and dear to my heart:
 #### January 2018-Present | Senior SRE | Pivotal (https://pivotal.io)
 
 - Assisted Fortune 100 customers architect, deploy and scale cloud-native applications
-- Hands on experience deploying applications to AWS, GCP, Azure and vSphere
+- Hands on experience deploying PaaS and applications to AWS, GCP, Azure and vSphere
 - Codeveloped SRE curriculum for internal and customer training
-- Helped maintain terraform automation and golang tooling
-- Daily use of CI/CD (Concourse), Docker and Kubernetes
+- Contributed to Terraform automation and Golang tooling
+- Daily use of Git, CI/CD (Concourse, Spinnaker), Docker and Kubernetes
 
 #### October 2016-December 2018 | DevOps Manager | Cisco Umbrella (https://cisco.com)
 
-- Helped build internal compute platform spanning thousands of cores, supporting traffic from millions of subscribers
-- Helped maintain CI/CD (Jenkins, Drone) and configuration management (Puppet, Ansible)
-- Coordinated and cared for an amazing team of golang engineers practicing Lean/XP
+- Helped build internal compute platform supporting traffic from millions of subscribers
+- Managed AWS-based microservices spanning ELB/ALB, EC2, S3, RDS and DynamoDB
+- Built and maintained CI/CD (Jenkins, Drone) and configuration management (Puppet, Chef, Ansible)
+- Coordinated and cared for an amazing team of Golang engineers practicing Lean/XP
 
 #### May 2015-October 2016 | Technical Lead | Cisco Cloud (https://cisco.com)
 
-- Spanned three DevOps teams which built and managed monitoring, logging and metrics services for Cisco’s cloud infrastructure (world's second largest OpenStack cloud)
-- Reached across team and organization boundaries to help deliver developer tooling and public-facing services
-- Evangelized DevOps culture and helped kickstart internal adoption
+- Coordinated three DevOps teams which built monitoring-, logging- and metrics-as-a-service for world's second largest OpenStack cloud
+- Reached across team and organization boundaries to deliver developer tooling and public-facing services
+- Evangelized Agile and DevOps culture, accelerating internal adoption
 
 #### Past Roles
 
-- November 2007-May 2015 | Senior DevOps Engineer | Cisco Security (https://cisco.com)
-- October 2006-November 2007 | DevOps Engineer | IronPort (Acquired)
-- March 2004-October 2006 | DevOps Engineer | E2open (https://e2open.com)
-- January 2000-March 2004 | Operations Manager | Televoke (Acquired)
+- November 2007-May 2015 | Senior DevOps Infrastructure Engineer | Cisco Security (https://cisco.com)
+- October 2006-November 2007 | DevOps Infrastructure Engineer | IronPort (Acquired)
+- March 2004-October 2006 | DevOps Infrastructure Engineer | E2open (https://e2open.com)
+- January 2000-March 2004 | Technical Operations Manager | Televoke (Acquired)
 - April 1999-January 2000 | UNIX Systems Engineer | QWEST (https://centurylink.com)
-- May 1997-April 1999 | UNIX/Network Administrator | SEI Data (https://seidata.com)
+- May 1997-April 1999 | UNIX and Network Administrator | SEI Data (https://seidata.com)
 - January 1994-December 1996 | Consultant | CJ's PC Service (RIP)
 
 ### Key Skills
 
-- Disciplines: DevOps Infrastructure Engineering, Site Reliability Engineering
-- Languages: Bash, Node.js, Go, Python, SQL/NoSQL
+- Disciplines: DevOps, Infrastructure Engineering, Site Reliability Engineering
+- Languages: Bash, POSIX Shell, Node.js, Go, Python, SQL/NoSQL
 - Cloud Platforms: Amazon Web Services, Google Cloud Platform
-- Container Orchestrators: Kubernetes, Cloud Foundry
-- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform
+- Orchestrators: Kubernetes, Cloud Foundry, Consul
+- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
 - Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK
 - Continuous Integration: Jenkins, Drone, Concourse
 
