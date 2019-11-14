@@ -39,7 +39,7 @@ These quotes have always been near and dear to my heart:
 #### October 2016-December 2018 | DevOps Manager | Cisco Umbrella (https://cisco.com)
 
 - Helped build internal compute platform supporting traffic from millions of subscribers
-- Managed AWS-based microservices spanning ELB/ALB, EC2, S3, RDS and DynamoDB
+- Managed AWS-based microservices spanning ELB/ALB, EC2, EBS, S3, RDS and DynamoDB
 - Built and maintained CI/CD (Jenkins, Drone) and configuration management (Puppet, Chef, Ansible)
 - Coordinated and cared for an amazing team of Golang engineers practicing Lean/XP
 
