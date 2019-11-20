@@ -61,8 +61,8 @@ These quotes have always been near and dear to my heart:
 
 ### Key Skills
 
-- Disciplines: DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: Bash, POSIX Shell, Node.js, Go, Python, SQL/NoSQL
+- Disciplines: Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
+- Languages: Bash, HTML, CSS, JavaScript, Node.js, Go, SQL/NoSQL
 - Cloud Platforms: Amazon Web Services, Google Cloud Platform
 - Orchestrators: Kubernetes, Cloud Foundry, Consul
 - Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
