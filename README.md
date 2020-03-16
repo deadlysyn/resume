@@ -18,14 +18,6 @@ I am familiar with multiple cloud infrastructure providers, including Amazon Web
 
 I am pragmatic in both my work style and technology choices, seeing the world as a series of trade-offs that must be carefully considered and occasionally reevaluated. I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
 
-### Guiding Principles
-
-These quotes have always been near and dear to my heart:
-
-- _Specialization is for insects._ -Robert A. Heinlein
-- _We are all apprentices in a craft where no one ever becomes a master._ -Ernest Hemingway
-- _The humblest tasks get beautified if loving hands do them._ -Louisa May Alcott
-
 ### Experience
 
 #### January 2020-Present | Senior DevOps Engineer | Sonatype (https://sonatype.com)
