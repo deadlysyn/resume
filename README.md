@@ -28,7 +28,15 @@ These quotes have always been near and dear to my heart:
 
 ### Experience
 
-#### January 2018-Present | Senior Site Reliability Engineer | Pivotal (https://pivotal.io)
+#### January 2020-Present | Senior DevOps Engineer | Sonatype (https://sonatype.com)
+
+- Managed wide range of AWS services including Lambda, ECS, ECR, SQS and SNS
+- Practiced Infrastructure as Code with Ansible and Terraform
+- Developed web services and CLIs in Node.js and Go
+- Supported core infrastructure services and developer tooling
+- Built Jenkins Pipelines to manage CI/CD tasks
+
+#### January 2018-December 2019 | Senior Site Reliability Engineer | Pivotal (https://pivotal.io)
 
 - Assisted Fortune 100 customers architect, deploy and scale cloud-native applications
 - Hands on experience deploying PaaS and applications to AWS, GCP, Azure and vSphere
@@ -38,20 +46,15 @@ These quotes have always been near and dear to my heart:
 
 #### October 2016-December 2017 | DevOps Manager | Cisco Security (https://cisco.com)
 
-- Helped build internal compute platform supporting traffic from millions of subscribers
-- Managed AWS-based microservices spanning ELB/ALB, EC2, EBS, S3, RDS, SQS, SNS and DynamoDB
-- Built and maintained CI/CD (Jenkins, Drone) and configuration management (Puppet, Ansible)
+- Helped build internal compute platform supporting millions of subscribers
+- Managed AWS-based microservices spanning ELB/ALB, EC2, EBS, S3, RDS and DynamoDB
+- Built and maintained CI/CD (Drone.io) and configuration management (Puppet, Ansible)
 - Coordinated and cared for an amazing team of Go engineers practicing Lean/XP
-
-#### May 2015-October 2016 | Technical Lead | Cisco Cloud (https://cisco.com)
-
-- Coordinated three DevOps teams which built monitoring-, logging- and metrics-as-a-service for world's second-largest OpenStack cloud
-- Reached across team and organization boundaries to deliver developer tooling and public-facing services
-- Evangelized Agile and DevOps culture to accelerate internal adoption
 
 #### Past Roles
 
-- November 2007-May 2015 | Senior DevOps Engineer | Cisco Security (https://cisco.com)
+- May 2015-October-2016 | Product Lead | Cisco Cloud (https://cisco.com)
+- November 2007-May 2015 | Senior Site Reliability Engineer | Cisco Security (https://cisco.com)
 - October 2006-November 2007 | DevOps Engineer | IronPort (Acquired)
 - March 2004-October 2006 | Infrastructure Engineer | E2open (https://e2open.com)
 - January 2000-March 2004 | Technical Operations Manager | Televoke (Acquired)
@@ -79,4 +82,3 @@ These quotes have always been near and dear to my heart:
 - Building Web Services in Go (2017)
 - AWS DevOps Engineer (2017)
 - Intermediate Python (2016)
-- Systems Operations on AWS (2015)
