@@ -1,22 +1,40 @@
 ### Mike Hoskins
 
-Lexington, KY area with a preference for remote work.
+Lexington, KY area with preference for remote work.
 
 mrh@devopsdreams.io | LinkedIn https://www.linkedin.com/in/mikehoskins
 
 ### Objective
 
-My primary objective in life is to have an impact... on my team, my community, and the world. Accomplishing that by delivering software and infrastructure solutions to real-world challenges while developing and using Free and Open Source Software is my dream.
+My primary objective in life is to have an impact... on my team, my community,
+and the world. Accomplishing that by delivering software and infrastructure
+solutions to real-world challenges while developing and using Free and Open
+Source Software is my dream.
 
 ### About Me
 
-I am a humble, collaborative, ambitious, and continuously learning DevOps engineer. I have been delivering large-scale distributed systems and mission-critical infrastructure services for over two decades. In that time I have developed a wide range of experience which includes being an individual contributor, technical lead, architect and hands-on manager.
+I am a humble, collaborative, ambitious, and continuously learning DevOps
+engineer. I have been delivering large-scale distributed systems and
+mission-critical infrastructure services for nearly three decades. In that
+time I have developed a wide range of experience which includes being an
+individual contributor, technical lead, architect and hands-on manager.
 
-I am passionate about DevOps culture and SRE principles as ways to rally people with diverse backgrounds around shared outcomes; increasing productivity while simultaneously improving quality of life through the tenacious pursuit of automation and elimination of toil.
+I am passionate about DevOps culture and SRE principles as ways to rally people
+with diverse backgrounds around shared outcomes; increasing productivity while
+simultaneously improving quality of life through the tenacious pursuit of
+automation and elimination of toil.
 
-I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud Platform, as well as multiple container orchestration frameworks including Kubernetes and Cloud Foundry. I am well versed in Agile practices, Lean Product Development, and Infrastructure as Code.
+I am familiar with multiple cloud infrastructure providers, including Amazon
+Web Services and Google Cloud Platform, as well as multiple container
+orchestration frameworks including Kubernetes and Cloud Foundry. I am well
+versed in Agile practices, Lean Product Development, and Infrastructure as Code.
 
-I am pragmatic in both my work style and technology choices, seeing the world as a series of trade-offs that must be carefully considered and occasionally reevaluated. I have worked fully remote for over a decade, am an excellent communicator, and highly effective at asynchronous collaboration. I value flexibility, autonomy and deep focus enabling a state of flow. I love Linux, Vim, Git and opportunities to solve new puzzles in a variety of languages.
+I am pragmatic in both my work style and technology choices, seeing the world
+as a series of trade-offs that must be carefully considered and occasionally
+re-evaluated. I have worked fully remote for over a decade, am an excellent
+communicator, and highly effective at asynchronous collaboration. I value
+flexibility, autonomy and deep focus enabling a state of flow. I love Linux,
+Vim, Git and opportunities to solve new puzzles in a variety of languages.
 
 ### Experience
 
@@ -32,7 +50,7 @@ I am pragmatic in both my work style and technology choices, seeing the world as
 
 - Assisted Fortune 100 customers architect, deploy and scale cloud-native applications
 - Hands on experience deploying PaaS and applications to AWS, GCP, Azure and vSphere
-- Codeveloped SRE curriculum for internal and customer training
+- Co-developed SRE curriculum for internal and customer training
 - Contributed to Terraform automation and Go tooling
 - Daily use of Git, CI/CD (Concourse, Spinnaker), Docker and Kubernetes
 
@@ -62,10 +80,12 @@ I am pragmatic in both my work style and technology choices, seeing the world as
 - Orchestrators: Kubernetes, Cloud Foundry, Consul
 - Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
 - Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK
-- Continuous Integration: Jenkins, Drone, Concourse
+- Continuous Integration: CircleCI, Drone, Jenkins
 
 ### Recent Training
 
+- Go Programming Language Comprehensive Course (2020)
+- AWS SysOps Administrator (2020)
 - Certified Kubernetes Administrator (2019)
 - Complete Node.js Developer Course (2019)
 - Advanced Full-Stack Web Development (2019)
@@ -73,4 +93,3 @@ I am pragmatic in both my work style and technology choices, seeing the world as
 - Full-Stack Web Development (2018)
 - Building Web Services in Go (2017)
 - AWS DevOps Engineer (2017)
-- Intermediate Python (2016)
