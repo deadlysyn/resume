@@ -2,7 +2,7 @@
 
 Lexington, KY area with preference for remote work.
 
-mrh@devopsdreams.io | LinkedIn https://www.linkedin.com/in/mikehoskins
+me@deadlysyn.com | LinkedIn https://www.linkedin.com/in/deadlysyn
 
 ### Objective
 
