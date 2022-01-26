@@ -33,8 +33,7 @@ I am pragmatic in both my work style and technology choices, seeing the world
 as a series of trade-offs that must be carefully considered and occasionally
 re-evaluated. I have worked fully remote for over a decade, am an excellent
 communicator, and highly effective at asynchronous collaboration. I value
-flexibility, autonomy and deep focus enabling a state of flow. I love Linux,
-Vim, Git and opportunities to solve new puzzles in a variety of languages.
+flexibility, autonomy and deep focus enabling a state of flow.
 
 ### Experience
 
