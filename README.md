@@ -37,33 +37,33 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 ### Experience
 
-#### January 2020-Present | Senior DevOps Engineer | Sonatype (https://sonatype.com)
+#### January 2020-Present | Sr DevOps Engineer | Sonatype (https://sonatype.com)
 
-- Managed wide range of AWS services including Lambda, ECS, ECR, SQS and SNS
+- Managed AWS services including EC2, ECS, ECR, ELB, ElastiCache, Lambda, Route53
 - Practiced Infrastructure as Code with Ansible and Terraform
 - Developed web services and CLIs in Node.js and Go
 - Supported core infrastructure services and developer tooling
 - Built Jenkins Pipelines to manage CI/CD tasks
 
-#### January 2018-December 2019 | Senior Site Reliability Engineer | Pivotal (https://pivotal.io)
+#### January 2018-December 2019 | Sr Site Reliability Engineer | Pivotal (https://pivotal.io)
 
 - Assisted Fortune 100 customers architect, deploy and scale cloud-native applications
 - Hands on experience deploying PaaS and applications to AWS, GCP, Azure and vSphere
 - Co-developed SRE curriculum for internal and customer training
 - Contributed to Terraform automation and Go tooling
-- Daily use of Git, CI/CD (Concourse, Spinnaker), Docker and Kubernetes
+- Daily use of Git, CI/CD, Docker and Kubernetes
 
 #### October 2016-December 2017 | DevOps Manager | Cisco Security (https://cisco.com)
 
 - Helped build internal compute platform supporting millions of subscribers
-- Managed AWS-based microservices spanning ELB/ALB, EC2, EBS, S3, RDS and DynamoDB
-- Built and maintained CI/CD (Drone.io) and configuration management (Puppet, Ansible)
+- Managed AWS-based microservices spanning EC2, ELB, DynamoDB, RDS and S3
+- Built and maintained CI/CD and configuration management (Puppet, Ansible)
 - Coordinated and cared for an amazing team of Go engineers practicing Lean/XP
 
 #### Past Roles
 
 - May 2015-October-2016 | Product Lead | Cisco Cloud (https://cisco.com)
-- November 2007-May 2015 | Senior Site Reliability Engineer | Cisco Security (https://cisco.com)
+- November 2007-May 2015 | Sr Site Reliability Engineer | Cisco Security (https://cisco.com)
 - October 2006-November 2007 | DevOps Engineer | IronPort (Acquired)
 - March 2004-October 2006 | Infrastructure Engineer | E2open (https://e2open.com)
 - January 2000-March 2004 | Technical Operations Manager | Televoke (Acquired)
@@ -73,13 +73,15 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 ### Key Skills
 
+Most recent experience in **bold**.
+
 - Disciplines: Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: Bash, HTML, CSS, JavaScript, Node.js, Go, SQL/NoSQL
-- Cloud Platforms: Amazon Web Services, Google Cloud Platform
-- Orchestrators: Kubernetes, Cloud Foundry, Consul
-- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
-- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK
-- Continuous Integration: CircleCI, Drone, Jenkins
+- Languages: **Bash**, HTML, CSS, JavaScript, Node.js, **Go**
+- Cloud Platforms: **Amazon Web Services**, Google Cloud Platform
+- Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul
+- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, **Terraform**
+- Observability: Nagios, Sensu, **Prometheus**, Graphite, Grafana, ELK, **Datadog**
+- CI/CD: CircleCI, Drone, **Jenkins**, Spinnaker
 
 ### Recent Training
 
