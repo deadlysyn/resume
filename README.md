@@ -39,7 +39,7 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 #### January 2020-Present | Sr DevOps Engineer | Sonatype (https://sonatype.com)
 
-- Managed AWS services including EC2, ECS, ECR, ELB, ElastiCache, Lambda, Route53
+- Managed AWS services including DynamoDB, EC2, ECS, ECR, ELB, ElastiCache, Lambda, Route53, VPC
 - Practiced Infrastructure as Code with Ansible and Terraform
 - Developed web services and CLIs in Node.js and Go
 - Supported core infrastructure services and developer tooling
@@ -56,7 +56,7 @@ flexibility, autonomy and deep focus enabling a state of flow.
 #### October 2016-December 2017 | DevOps Manager | Cisco Security (https://cisco.com)
 
 - Helped build internal compute platform supporting millions of subscribers
-- Managed AWS-based microservices spanning EC2, ELB, DynamoDB, RDS and S3
+- Managed AWS-based microservices atop DynamoDB, EC2, ELB, RDS, Route53, S3, VPC
 - Built and maintained CI/CD and configuration management (Puppet, Ansible)
 - Coordinated and cared for an amazing team of Go engineers practicing Lean/XP
 
