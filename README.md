@@ -37,7 +37,14 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 ### Experience
 
-#### January 2020-Present | Sr DevOps Engineer | Sonatype (https://sonatype.com)
+#### April 2022-Present | Sr Site Reliability Engineer | Lattice (https://lattice.com)
+
+- Managed production AWS infrastructure including EKS
+- Practiced GitOps and Infrastructure as Code with Ansible, Packer and Terraform
+- Developed tooling in Node.js and Go
+- Leveraged CircleCI, GitHub Actions and ArgoCD to ship quality at speed
+
+#### January 2020-March 2022 | Sr DevOps Engineer | Sonatype (https://sonatype.com)
 
 - Managed AWS services including DynamoDB, EC2, ECS, ECR, ELB, ElastiCache, Lambda, Route53, VPC
 - Practiced Infrastructure as Code with Ansible and Terraform
