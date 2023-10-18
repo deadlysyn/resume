@@ -39,10 +39,10 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 #### April 2022-Present | Sr Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Managed production AWS infrastructure including EKS
+- Managed production AWS infrastructure including Aurora/RDS, EKS, Elasticache, Lambda, Route53, VPC
 - Practiced GitOps and Infrastructure as Code with Ansible, Packer and Terraform
 - Developed tooling in Node.js and Go
-- Leveraged CircleCI, GitHub Actions and ArgoCD to ship quality at speed
+- Leveraged GitHub Actions and ArgoCD to ship quality at speed
 
 #### January 2020-March 2022 | Sr DevOps Engineer | Sonatype (https://sonatype.com)
 
@@ -83,12 +83,12 @@ flexibility, autonomy and deep focus enabling a state of flow.
 Most recent experience in **bold**.
 
 - Disciplines: Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: **Bash**, HTML, CSS, JavaScript, Node.js, **Go**
-- Cloud Platforms: **Amazon Web Services**, Google Cloud Platform
+- Languages: **Bash**, HTML, CSS, JavaScript, **Node.js**, **Go**
+- Cloud Platforms: **Amazon Web Services**, Azure, Google Cloud Platform
 - Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul
-- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, **Terraform**
-- Observability: Nagios, Sensu, **Prometheus**, Graphite, Grafana, ELK, **Datadog**
-- CI/CD: CircleCI, Drone, **Jenkins**, Spinnaker
+- Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**
+- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, **Datadog**
+- CI/CD: **ArgoCD**, CircleCI, Drone, **Github Actions**, Jenkins, Spinnaker
 
 ### Recent Training
 
