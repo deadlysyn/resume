@@ -88,7 +88,7 @@ Most recent experience in **bold**.
 - Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul
 - Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**
 - Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, **Datadog**
-- CI/CD: **ArgoCD**, CircleCI, Drone, **Github Actions**, Jenkins, Spinnaker
+- CI/CD: **ArgoCD**, CircleCI, Drone, **GitHub Actions**, Jenkins, Spinnaker
 
 ### Recent Training
 
