@@ -14,10 +14,11 @@ Source Software is my dream.
 ### About Me
 
 I am a humble, collaborative, ambitious, and continuously learning DevOps
-engineer. I have been delivering large-scale distributed systems and
-mission-critical infrastructure services for nearly three decades. In that
-time I have developed a wide range of experience which includes being an
-individual contributor, technical lead, architect and hands-on manager.
+(aka Infrastructure, Cloud, Reliability engineer) engineer. I have been
+delivering large-scale distributed systems and mission-critical infrastructure
+services for nearly three decades. In that time I have developed a wide range
+of experience which includes being an individual contributor, technical lead,
+architect and hands-on manager.
 
 I am passionate about DevOps culture and SRE principles as ways to rally people
 with diverse backgrounds around shared outcomes; increasing productivity while
@@ -39,7 +40,7 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 #### April 2022-Present | Sr Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Managed production AWS infrastructure including Aurora/RDS, EKS, Elasticache, Lambda, Route53, VPC
+- Managed AWS services including Aurora/RDS, DynamoDB, EC2, ECR, ELB, EKS, Elasticache, Lambda, Route53, VPC
 - Practiced GitOps and Infrastructure as Code with Ansible, Packer and Terraform
 - Developed tooling in Node.js and Go
 - Leveraged GitHub Actions and ArgoCD to ship quality at speed
@@ -69,7 +70,7 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 #### Past Roles
 
-- May 2015-October-2016 | Product Lead | Cisco Cloud (https://cisco.com)
+- May 2015-October-2016 | Technical Product Manager | Cisco Cloud (https://cisco.com)
 - November 2007-May 2015 | Sr Site Reliability Engineer | Cisco Security (https://cisco.com)
 - October 2006-November 2007 | DevOps Engineer | IronPort (Acquired)
 - March 2004-October 2006 | Infrastructure Engineer | E2open (https://e2open.com)
@@ -82,12 +83,12 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 Most recent experience in **bold**.
 
-- Disciplines: Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: **Bash**, HTML, CSS, JavaScript, **Node.js**, **Go**
+- Disciplines: Lean, Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
+- Languages: **Bash**, HTML, CSS, JavaScript, Python, **Node.js**, **Go**
 - Cloud Platforms: **Amazon Web Services**, Azure, Google Cloud Platform
-- Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul
+- Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul, OpenShift, Nomad
 - Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**
-- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, **Datadog**
+- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, AppDynamics, **Datadog**
 - CI/CD: **ArgoCD**, CircleCI, Drone, **GitHub Actions**, Jenkins, Spinnaker
 
 ### Recent Training
