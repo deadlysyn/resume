@@ -90,7 +90,7 @@ Most recent experience in **bold**.
 - Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**
 - Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, AppDynamics, **Datadog**
 - CI/CD: **ArgoCD**, CircleCI, Drone, **GitHub Actions**, Jenkins, Spinnaker
-- Data: MySQL, *PostgresSQL*, *Aurora*, *Redis*, Memcached
+- Data: MySQL, **PostgresSQL**, **Aurora**, **Redis**, Memcached
 
 ### Recent Training
 
