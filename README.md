@@ -14,7 +14,7 @@ Source Software is my dream.
 ### About Me
 
 I am a humble, collaborative, ambitious, and continuously learning DevOps
-(aka Infrastructure, Cloud, Reliability engineer) engineer. I have been
+(aka Infrastructure, Cloud, Reliability) engineer. I have been
 delivering large-scale distributed systems and mission-critical infrastructure
 services for nearly three decades. In that time I have developed a wide range
 of experience which includes being an individual contributor, technical lead,
