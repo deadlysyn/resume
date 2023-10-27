@@ -71,8 +71,8 @@ flexibility, autonomy and deep focus enabling a state of flow.
 #### Past Roles
 
 - May 2015-October-2016 | Technical Product Manager | Cisco Cloud (https://cisco.com)
-- November 2007-May 2015 | Sr Site Reliability Engineer | Cisco Security (https://cisco.com)
-- October 2006-November 2007 | DevOps Engineer | IronPort (Acquired)
+- November 2007-May 2015 | Sr DevOps Engineer | Cisco Security (https://cisco.com)
+- October 2006-November 2007 | Infrastructure Engineer | IronPort (Acquired)
 - March 2004-October 2006 | Infrastructure Engineer | E2open (https://e2open.com)
 - January 2000-March 2004 | Technical Operations Manager | Televoke (Acquired)
 - April 1999-January 2000 | UNIX Systems Engineer | QWEST (https://centurylink.com)
