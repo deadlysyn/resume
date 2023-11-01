@@ -6,29 +6,29 @@ me@deadlysyn.com | LinkedIn https://www.linkedin.com/in/deadlysyn
 
 ### Objective
 
-My primary objective in life is to have an impact... on my team, my community,
+My primary objective in life is to have an impact on my team, my community,
 and the world. Accomplishing that by delivering software and infrastructure
 solutions to real-world challenges while developing and using Free and Open
 Source Software is my dream.
 
 ### About Me
 
-I am a humble, collaborative, ambitious, and continuously learning
-infrastructure engineer. I have been delivering large-scale distributed systems
-and mission-critical infrastructure services for three decades. In that time I
-have developed a wide range of experience including being an individual
-contributor, technical lead, architect and hands-on manager.
+I am a humble, collaborative, ambitious, and continuously learning engineer.
+I have been delivering large-scale distributed systems and mission-critical
+infrastructure services for three decades. In that time I developed a wide
+range of experience as an individual contributor, technical lead, architect
+and hands-on manager.
 
 I am passionate about DevOps culture and SRE principles as ways to rally people
-with diverse backgrounds around shared outcomes; increasing productivity while
+from diverse backgrounds around shared outcomes; increasing productivity while
 simultaneously improving quality of life through the tenacious pursuit of
 automation and elimination of toil.
 
 I am familiar with multiple cloud infrastructure providers, including Amazon
 Web Services and Google Cloud Platform, as well as popular container
-orchestration frameworks such as Cloud Foundry, Kubernetes, Nomad and
-OpenShift. I am well versed in Agile practices, Lean Product Development,
-GitOps and Infrastructure as Code.
+orchestration frameworks such as Cloud Foundry, Kubernetes, and Nomad. I am
+well versed in Agile practices, Lean Product Development, GitOps and
+Infrastructure as Code.
 
 I am pragmatic in both my work style and technology choices, seeing the world
 as a series of trade-offs that must be carefully considered and occasionally
