@@ -25,9 +25,10 @@ simultaneously improving quality of life through the tenacious pursuit of
 automation and elimination of toil.
 
 I am familiar with multiple cloud infrastructure providers, including Amazon
-Web Services and Google Cloud Platform, as well as multiple container
-orchestration frameworks such as Kubernetes and Cloud Foundry. I am well
-versed in Agile practices, Lean Product Development, and Infrastructure as Code.
+Web Services and Google Cloud Platform, as well as popular container
+orchestration frameworks such as Cloud Foundry, Kubernetes, Nomad and
+OpenShift. I am well versed in Agile practices, Lean Product Development,
+GitOps and Infrastructure as Code.
 
 I am pragmatic in both my work style and technology choices, seeing the world
 as a series of trade-offs that must be carefully considered and occasionally
