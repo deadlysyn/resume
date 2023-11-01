@@ -40,14 +40,14 @@ flexibility, autonomy and deep focus enabling a state of flow.
 
 #### April 2022-Present | Sr Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Managed AWS services including Aurora/RDS, DynamoDB, EC2, ECR, ELB, EKS, Elasticache, Lambda, Route53, VPC
+- Managed AWS services including API Gateway, Aurora/RDS, DynamoDB, EC2, ECR, ECS, ELB, EKS, Elasticache, Lambda, Redshift, Route53, VPC
 - Practiced GitOps and Infrastructure as Code with Ansible, Packer, Terraform and Terragrunt
 - Helped develop and maintain tooling in Node.js and Go
 - Leveraged GitHub Actions and ArgoCD to ship quality at speed
 
 #### January 2020-March 2022 | Sr DevOps Engineer | Sonatype (https://sonatype.com)
 
-- Managed AWS services including DynamoDB, EC2, ECS, ECR, ELB, ElastiCache, Lambda, RDS, Route53, VPC
+- Managed AWS services including Cloudfront, DynamoDB, EC2, ECS, ECR, ELB, ElastiCache, Lambda, RDS, Route53, VPC
 - Practiced Infrastructure as Code with Ansible and Terraform
 - Developed web services and CLIs in Node.js and Go
 - Supported core infrastructure services and developer tooling
@@ -88,9 +88,9 @@ Most recent experience in **bold**.
 - Cloud Platforms: **Amazon Web Services**, Azure, Google Cloud Platform
 - Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul, OpenShift, Nomad
 - Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**, **Terragrunt**
-- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, AppDynamics, **Datadog**
-- CI/CD: **ArgoCD**, CircleCI, Drone, **GitHub Actions**, Jenkins, Spinnaker
-- Data: MySQL, **PostgresSQL**, **Aurora**, **Redis**, Memcached
+- Observability: Nagios, Sensu, Zabbix, Prometheus, Graphite, Grafana, ELK, AppDynamics, **CloudWatch**, **Datadog**, **PagerDuty**
+- CI/CD: **ArgoCD**, CircleCI, Concourse, Drone, **GitHub Actions**, Gitlab, Jenkins, Spinnaker
+- Data: MySQL, **PostgresSQL**, **Aurora/RDS**, **Elasticache/Redis**, Memcached
 
 ### Recent Training
 
