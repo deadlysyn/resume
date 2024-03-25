@@ -30,7 +30,7 @@ decade, I am highly effective at asynchronous collaboration.
 - Scaled global Kubernetes footprint in complex regulatory environment
 - Shipped daily using GitOps, IaC, AWS, Terraform, Packer, Ansible, Node.js and Go
 
-#### January 2020-March 2022 | Sr. Site Reliability Engineer | Sonatype (https://sonatype.com)
+#### January 2020-March 2022 | Sr. DevOps Engineer | Sonatype (https://sonatype.com)
 
 - Automated employee onboarding (reduced hours of manual work to minutes)
 - Built API allowing teams to self-manage AWS access (eliminated ticket wait time)
