@@ -2,104 +2,74 @@
 
 Lexington, KY area with preference for remote work.
 
-me@deadlysyn.com | LinkedIn https://www.linkedin.com/in/deadlysyn
+me@deadlysyn.com | www.linkedin.com/in/deadlysyn
 
 ### Objective
 
-My primary objective in life is to have an impact on my team, my community,
-and the world. Accomplishing that by delivering software and infrastructure
-solutions to real-world challenges while developing and using Free and Open
-Source Software is my dream.
+Seeking a role as a Senior or Staff Engineer where I can apply 30 years of
+experience building and scaling infrastructure services to accelerate
+innovation and deliver value for the business.
 
 ### About Me
 
-I am a humble, collaborative, ambitious, and continuously learning engineer.
-I have been delivering large-scale distributed systems and mission-critical
-infrastructure services for three decades. In that time I developed a wide
-range of experience as an individual contributor, technical lead, architect
-and hands-on manager.
+I believe DevOps culture and SRE principles enable rallying around shared
+outcomes; increasing productivity while simultaneously improving quality
+of life. I am a cloud native well versed in Agile, Lean Product, GitOps
+and Infrastructure as Code.
 
-I am passionate about DevOps culture and SRE principles as ways to rally people
-from diverse backgrounds around shared outcomes; increasing productivity while
-simultaneously improving quality of life through the tenacious pursuit of
-automation and elimination of toil.
-
-I am familiar with multiple cloud infrastructure providers, including Amazon
-Web Services and Google Cloud Platform, as well as popular container
-orchestration frameworks such as Cloud Foundry, Kubernetes, and Nomad. I am
-well versed in Agile practices, Lean Product Development, GitOps and
-Infrastructure as Code.
-
-I am pragmatic in both my work style and technology choices, seeing the world
-as a series of trade-offs that must be carefully considered and occasionally
-re-evaluated. I have worked fully remote for over a decade, am an excellent
-communicator, and highly effective at asynchronous collaboration. I value
-flexibility, autonomy and deep focus enabling a state of flow.
+Humble, collaborative, and continuously learning; I am pragmatic in my
+work style and technology choices. Having worked fully remote for over a
+decade, I am highly effective at asynchronous collaboration.
 
 ### Experience
 
-#### April 2022-Present | Sr Site Reliability Engineer | Lattice (https://lattice.com)
+#### April 2022-November 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Managed AWS services including API Gateway, Aurora/RDS, DynamoDB, EC2, ECR, ECS, ELB, EKS, Elasticache, Lambda, Redshift, Route53, VPC
-- Practiced GitOps and Infrastructure as Code with Ansible, Packer, Terraform and Terragrunt
-- Helped develop and maintain tooling in Node.js and Go
-- Leveraged GitHub Actions and ArgoCD to ship quality at speed
+- Templatized infrastructure deployment (8x decrease in "time to new service")
+- Deployed ArgoCD to orchestrate complex web of monolith and microservice dependencies
+- Scaled global Kubernetes footprint in complex regulatory environment
+- Shipped daily using GitOps, IaC, AWS, Terraform, Packer, Ansible, Node.js and Go
 
-#### January 2020-March 2022 | Sr DevOps Engineer | Sonatype (https://sonatype.com)
+#### January 2020-March 2022 | Sr. Site Reliability Engineer | Sonatype (https://sonatype.com)
 
-- Managed AWS services including Cloudfront, DynamoDB, EC2, ECS, ECR, ELB, ElastiCache, Lambda, RDS, Route53, VPC
-- Practiced Infrastructure as Code with Ansible and Terraform
-- Developed web services and CLIs in Node.js and Go
-- Supported core infrastructure services and developer tooling
-- Built Jenkins Pipelines to manage CI/CD tasks
+- Automated employee onboarding (reduced hours of manual work to minutes)
+- Built API allowing teams to self-manage AWS access (eliminated ticket wait time)
+- Scaled and secured core infrastructure services and developer tooling
+- Shipped daily using GitOps, IaC, AWS, Terraform, Packer, Ansible, Node.js and Go
 
-#### January 2018-December 2019 | Sr Site Reliability Engineer | Pivotal (https://pivotal.io)
+#### January 2018-December 2019 | Sr. Site Reliability Engineer | Pivotal Labs (Acquired)
 
-- Assisted Fortune 100 customers architect, deploy and scale cloud-native applications
-- Hands on experience deploying PaaS and applications to AWS, GCP, Azure and vSphere
-- Co-developed SRE curriculum for internal and customer training
-- Contributed to Terraform automation and Go tooling
-- Daily use of Git, CI/CD, Docker and Kubernetes
-
-#### October 2016-December 2017 | DevOps Manager | Cisco Security (https://cisco.com)
-
-- Helped build internal compute platform supporting millions of subscribers
-- Managed AWS-based microservices atop DynamoDB, EC2, ELB, RDS, Route53, S3, VPC
-- Built and maintained CI/CD and configuration management (Puppet, Ansible)
-- Coordinated and cared for an amazing team of Go engineers practicing Lean/XP
+- Developed SRE curriculum for internal and customer training
+- Kept Fortune 100 digital transformation objectives on-track and on-budget
+- Automated PaaS and cloud native application deployment to AWS, GCP, Azure and vSphere
 
 #### Past Roles
 
-- May 2015-October-2016 | Technical Product Manager | Cisco Cloud (https://cisco.com)
-- November 2007-May 2015 | Sr DevOps Engineer | Cisco Security (https://cisco.com)
-- October 2006-November 2007 | Infrastructure Engineer | IronPort (Acquired)
-- March 2004-October 2006 | Infrastructure Engineer | E2open (https://e2open.com)
-- January 2000-March 2004 | Technical Operations Manager | Televoke (Acquired)
-- April 1999-January 2000 | UNIX Systems Engineer | QWEST (https://centurylink.com)
-- May 1997-April 1999 | UNIX and Network Administrator | SEI Data (https://seidata.com)
-- January 1994-December 1996 | Consultant | CJ's PC Service (RIP)
+- 2007-2017 | Infrastructure Architect | Cisco, Security Technology Business Unit (https://cisco.com)
+- 2006-2007 | Sr. Infrastructure Engineer | IronPort (Acquired)
+- 2004-2006 | Sr. Infrastructure Engineer | E2open (https://e2open.com)
+- 2000-2004 | Technical Operations Manager | Televoke (Acquired)
+- 1999-2000 | UNIX Systems Engineer | QWEST (https://centurylink.com)
+- 1997-1999 | UNIX and Network Administrator | SEI Data (https://seidata.com)
 
 ### Key Skills
 
-Most recent experience in **bold**.
-
 - Disciplines: Lean, Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: **Bash**, HTML, CSS, JavaScript, Python, **Node.js**, **Go**
-- Cloud Platforms: **Amazon Web Services**, Azure, Google Cloud Platform
-- Containers and Orchestration: **Docker**, **Kubernetes**, Cloud Foundry, Consul, OpenShift, Nomad
-- Infrastructure as Code: CFEngine, **Packer**, Puppet, **Ansible**, SaltStack, **Terraform**, **Terragrunt**
-- Observability: Nagios, Sensu, Zabbix, Prometheus, Graphite, Grafana, ELK, AppDynamics, **CloudWatch**, **Datadog**, **PagerDuty**
-- CI/CD: **ArgoCD**, CircleCI, Concourse, Drone, **GitHub Actions**, Gitlab, Jenkins, Spinnaker
-- Data: MySQL, **PostgresSQL**, **Aurora/RDS**, **Elasticache/Redis**, Memcached
+- Languages: Bash, HTML, CSS, JavaScript, Python, Node.js, Go
+- Cloud Platforms: Amazon Web Services, Azure, Google Cloud Platform, vSphere
+- Containers and Orchestration: Docker, Kubernetes, OpenStack, Cloud Foundry
+- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
+- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, CloudWatch, Datadog, PagerDuty
+- CI/CD: ArgoCD, CircleCI, Concourse, Drone, GitHub Actions, Gitlab, Jenkins
+- Data: MySQL, PostgresSQL, Aurora/RDS, DynamoDB, Elasticache, Redis
 
 ### Recent Training
 
-- Go Programming Language Comprehensive Course (2020)
-- AWS SysOps Administrator (2020)
-- Certified Kubernetes Administrator (2019)
+- HashiCorp Vault Operations Professional (2024)
+- HashiCorp Vault Associate (2023)
+- Certified Kubernetes Administrator (2022)
+- Go Programming Language Comprehensive Course (2021)
+- AWS DevOps Engineer (2020)
 - Complete Node.js Developer Course (2019)
+- Building Web Services in Go (2019)
 - Advanced Full-Stack Web Development (2019)
-- Cloud Foundry Developer Training (2018)
-- Full-Stack Web Development (2018)
-- Building Web Services in Go (2017)
-- AWS DevOps Engineer (2017)
