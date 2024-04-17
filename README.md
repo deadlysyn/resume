@@ -2,20 +2,19 @@
 
 Lexington, KY area with preference for remote work.
 
-me@deadlysyn.com | www.linkedin.com/in/deadlysyn
+me@deadlysyn.com | https://deadlysyn.com
 
 ### Objective
 
 Seeking a role as a Senior or Staff Engineer where I can apply 30 years of
-experience building and scaling infrastructure services to accelerate
-innovation and deliver value for the business.
+experience building and scaling mission critical infrastructure and cloud
+native services to accelerate innovation and deliver value for the business.
 
 ### About Me
 
 I believe DevOps culture and SRE principles enable rallying around shared
 outcomes; increasing productivity while simultaneously improving quality
-of life. I am a cloud native well versed in Agile, Lean Product, GitOps
-and Infrastructure as Code.
+of life. I am well-versed in Agile, Lean Product, GitOps and Infrastructure as Code.
 
 Humble, collaborative, and continuously learning; I am pragmatic in my
 work style and technology choices. Having worked fully remote for over a
@@ -23,7 +22,7 @@ decade, I am highly effective at asynchronous collaboration.
 
 ### Experience
 
-#### April 2022-November 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
+#### April 2022-December 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
 
 - Templatized infrastructure deployment (8x decrease in "time to new service")
 - Deployed ArgoCD to orchestrate complex web of monolith and microservice dependencies
@@ -55,21 +54,22 @@ decade, I am highly effective at asynchronous collaboration.
 ### Key Skills
 
 - Disciplines: Lean, Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: Bash, HTML, CSS, JavaScript, Python, Node.js, Go
+- Languages: Bash/Shell, HTML, CSS, JavaScript, Python, Node.js, Go
 - Cloud Platforms: Amazon Web Services, Azure, Google Cloud Platform, vSphere
-- Containers and Orchestration: Docker, Kubernetes, OpenStack, Cloud Foundry
-- Infrastructure as Code: CFEngine, Puppet, Ansible, SaltStack, Terraform, Packer
+- Containers and Orchestration: Docker, Kubernetes/EKS, OpenStack, Cloud Foundry
+- Infrastructure as Code: CFEngine, Puppet, SaltStack, Ansible, Terraform, Packer, Kustomize, Helm
 - Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, CloudWatch, Datadog, PagerDuty
-- CI/CD: ArgoCD, CircleCI, Concourse, Drone, GitHub Actions, Gitlab, Jenkins
-- Data: MySQL, PostgresSQL, Aurora/RDS, DynamoDB, Elasticache, Redis
+- CI/CD: Concourse, Drone, CircleCI, FluxCD, Jenkins, Gitlab, GitHub Actions, ArgoCD
+- Data: MySQL, PostgresSQL, Redis, Aurora/RDS, DynamoDB, Elasticache
 
 ### Recent Training
 
-- HashiCorp Vault Operations Professional (2024)
-- HashiCorp Vault Associate (2023)
-- Certified Kubernetes Administrator (2022)
+- HashiCorp Vault Operations Professional (2023)
+- HashiCorp Vault Associate (2022)
+- HashiCorp Terraform Associate (2021)
 - Go Programming Language Comprehensive Course (2021)
+- Certified Kubernetes Administrator (2020)
 - AWS DevOps Engineer (2020)
-- Complete Node.js Developer Course (2019)
 - Building Web Services in Go (2019)
+- Complete Node.js Developer Course (2019)
 - Advanced Full-Stack Web Development (2019)
