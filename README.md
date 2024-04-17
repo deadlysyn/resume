@@ -27,14 +27,12 @@ decade, I am highly effective at asynchronous collaboration.
 - Templatized infrastructure deployment (8x decrease in "time to new service")
 - Deployed ArgoCD to orchestrate complex web of monolith and microservice dependencies
 - Scaled global Kubernetes footprint in complex regulatory environment
-- Shipped daily using GitOps, IaC, AWS, Terraform, Packer, Ansible, Node.js and Go
 
 #### January 2020-March 2022 | Sr. DevOps Engineer | Sonatype (https://sonatype.com)
 
 - Automated employee onboarding (reduced hours of manual work to minutes)
 - Built API allowing teams to self-manage AWS access (eliminated ticket wait time)
 - Scaled and secured core infrastructure services and developer tooling
-- Shipped daily using GitOps, IaC, AWS, Terraform, Packer, Ansible, Node.js and Go
 
 #### January 2018-December 2019 | Sr. Site Reliability Engineer | Pivotal Labs (Acquired)
 
