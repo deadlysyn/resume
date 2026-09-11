@@ -22,6 +22,15 @@ decade, I am highly effective at asynchronous collaboration.
 
 ### Experience
 
+#### April 2024-Present | Staff Cloud Infrastructure Engineer | Assured (https://assured.com)
+
+- Care and feeding of 60+ EKS clusters aka "infrastructure platform"
+- New service delivery via ArgoCD and Helm
+- IaC thought leadership (terraform vs tofu, terragrunt, boilerplate, TACO)
+- Bootstrapped SLO practice (theory, instrumentation, managing with IaC)
+- Kicked off "embedded" program (worked with product teams to help instrument key transactions and "teach to fish")
+- Led o11y platform data migration to scale and align with best practices
+
 #### April 2022-December 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
 
 - Templatized infrastructure deployment (8x decrease in "time to new service")
