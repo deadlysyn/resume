@@ -4,44 +4,36 @@ Lexington, KY area with preference for remote work.
 
 me@deadlysyn.com | https://deadlysyn.com
 
-### Objective
+### Professional Summary
 
-Seeking a role as a Senior or Staff Engineer where I can apply 30 years of
-experience building and scaling mission critical infrastructure and cloud
-native services to accelerate innovation and deliver value for the business.
+Senior Site Reliability and Infrastructure Engineer with nearly 30 years of experience building, scaling, and operating mission-critical systems. Most recently a Staff Site Reliability Engineer supporting a platform of 60+ Amazon EKS clusters, with deep expertise in AWS, Terraform and infrastructure as code, GitOps delivery (ArgoCD, Helm), observability, and SLO-driven reliability practices.
 
-### About Me
-
-I believe DevOps culture and SRE principles enable rallying around shared
-outcomes; increasing productivity while simultaneously improving quality
-of life. I am well-versed in Agile, Lean Product, GitOps and Infrastructure as Code.
-
-Humble, collaborative, and continuously learning; I am pragmatic in my
-work style and technology choices. Having worked fully remote for over a
-decade, I am highly effective at asynchronous collaboration.
+Seasoned incident responder who has led 1,000+ incidents, run on-call rotations, written postmortems, and built incident management processes from scratch, later adapting the right parts of PagerDuty’s open-source Incident Response framework (as an early contributor) to what each organization actually needs. Known for establishing SLO programs from scratch, automating away toil, and teaching product teams to own the reliability of their services.
 
 ### Experience
 
-#### April 2024-Present | Staff Cloud Infrastructure Engineer | Assured (https://assured.com)
+#### April 2024-September 2026 | Staff Site Reliability Engineer | Assured (https://assured.com)
 
-- Care and feeding of 60+ EKS clusters aka "infrastructure platform"
-- New service delivery via ArgoCD and Helm
-- IaC thought leadership (terraform vs tofu, terragrunt, boilerplate, TACO)
-- Bootstrapped SLO practice (theory, instrumentation, managing with IaC)
-- Kicked off "embedded" program (worked with product teams to help instrument key transactions and "teach to fish")
-- Led o11y platform data migration to scale and align with best practices
+- Contributed Terraform modules, Terragrunt boilerplate, and ArgoCD manifests to the migration from Elastic Beanstalk to a 60+ cluster Amazon EKS platform, where new services ship as additional pods instead of new environments, simplifying delivery and accelerating innovation.
+- Owned ongoing EKS cluster and ArgoCD upgrades for the platform.
+- Delivered new services through GitOps pipelines built on ArgoCD and Helm.
+- Established the company’s SLO practice from the ground up: identified ~30 customer-critical key transactions, instrumented the Node.js application, and codified the SLIs and SLOs in New Relic using Terraform.
+- Created and documented an “embedded” program that partnered SREs with product teams to build SLOs themselves rather than have them built for them; piloted it with one team new to SLOs, then defined the repeatable pattern that grew adoption to ~20 teams.
+- Set infrastructure as code strategy for the organization, evaluating Terraform vs. OpenTofu, Terragrunt, Boilerplate, and Terraform automation and collaboration (TACO) tooling.
+- Led migration of the observability platform’s data to improve scale and align with industry best practices.
 
 #### April 2022-December 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Templatized infrastructure deployment (8x decrease in "time to new service")
-- Deployed ArgoCD to orchestrate complex web of monolith and microservice dependencies
-- Scaled global Kubernetes footprint in complex regulatory environment
+- Templatized infrastructure deployment with reusable Kubernetes and ArgoCD templates for common scenarios and an interactive menu-driven script, so even junior JavaScript engineers could answer a few questions and get a working Kubernetes service; cut the time to produce a Kubernetes and ArgoCD pull request from a full day to under an hour (8x).
+- Enabled rapid adoption of new architecture patterns, particularly microfrontends, on a platform that previously ran only a few backend services.
+- Deployed ArgoCD to orchestrate deployments across a complex web of monolith and microservice dependencies.
+- Scaled the global Kubernetes footprint while meeting the demands of a complex regulatory environment.
 
 #### January 2020-March 2022 | Sr. DevOps Engineer | Sonatype (https://sonatype.com)
 
-- Automated employee onboarding (reduced hours of manual work to minutes)
-- Built API allowing teams to self-manage AWS access (eliminated ticket wait time)
-- Scaled and secured core infrastructure services and developer tooling
+- Built an employee onboarding service that wrapped HR, IT, security, and operations tasks into a single button and report, onboarding 100+ managers, salespeople, and engineers during a period of rapid growth; saved 4–8 hours per week of manual account and permission work while adding consistency and an audit trail.
+- Built a self-service API that let teams manage their own AWS access, used daily by ~10 development teams and eliminating ticket wait times.
+- Scaled and secured core infrastructure services and developer tooling.
 
 #### January 2018-December 2019 | Sr. Site Reliability Engineer | Pivotal Labs (Acquired)
 
@@ -60,23 +52,21 @@ decade, I am highly effective at asynchronous collaboration.
 
 ### Key Skills
 
-- Disciplines: Lean, Agile, DevOps, Infrastructure Engineering, Site Reliability Engineering
-- Languages: Bash/Shell, HTML, CSS, JavaScript, Python, Node.js, Go
-- Cloud Platforms: Amazon Web Services, Azure, Google Cloud Platform, vSphere
-- Containers and Orchestration: Docker, Kubernetes/EKS, OpenStack, Cloud Foundry
-- Infrastructure as Code: CFEngine, Puppet, SaltStack, Ansible, Terraform, Packer, Kustomize, Helm
-- Observability: Nagios, Sensu, Prometheus, Graphite, Grafana, ELK, CloudWatch, Datadog, PagerDuty
-- CI/CD: Concourse, Drone, CircleCI, FluxCD, Jenkins, Gitlab, GitHub Actions, ArgoCD
-- Data: MySQL, PostgresSQL, Redis, Aurora/RDS, DynamoDB, Elasticache
+**Cloud:** AWS (EC2, EKS, Elastic Beanstalk, VPC, IAM, S3, Route 53, Lambda, Elastic Load Balancing (ALB/NLB), RDS/Aurora, DynamoDB, ElastiCache, CloudWatch), Microsoft Azure, Google Cloud Platform, VMware vSphere
+**Containers and Orchestration:** Kubernetes, Amazon EKS, Docker, Helm, Kustomize, ArgoCD, FluxCD, Cloud Foundry, OpenStack
+**Infrastructure as Code:** Terraform, OpenTofu, Terragrunt, Packer, Ansible, Puppet, SaltStack, CFEngine CI/CD and GitOps: ArgoCD, FluxCD, GitHub Actions, GitLab CI, CircleCI, Jenkins, Concourse, Drone
+**Observability:** New Relic, Datadog, Prometheus, Grafana, CloudWatch, ELK, Graphite, Nagios, Sensu
+**Reliability and Incident Response:** SLOs and SLIs, incident management, on-call operations, postmortems, PagerDuty and the PagerDuty Incident Response framework
+**Core Infrastructure Services:** Load balancing, DNS, SMTP, LDAP
+**Programming and Scripting:** Bash, Go, Node.js, Python
+**Data Stores:** PostgreSQL, MySQL, Redis, Amazon Aurora/RDS, DynamoDB, ElastiCache
+**Security:** HashiCorp Vault, AWS IAM
+**Practices:** Site Reliability Engineering, DevOps, GitOps, Infrastructure as Code, Agile, Lean
 
-### Recent Training
+### Training
 
 - HashiCorp Vault Operations Professional (2023)
 - HashiCorp Vault Associate (2022)
 - HashiCorp Terraform Associate (2021)
-- Go Programming Language Comprehensive Course (2021)
-- Certified Kubernetes Administrator (2020)
-- AWS DevOps Engineer (2020)
-- Building Web Services in Go (2019)
-- Complete Node.js Developer Course (2019)
-- Advanced Full-Stack Web Development (2019)
+- Certified Kubernetes Administrator (2020, expired)
+- AWS DevOps Engineer (2020, expired)
