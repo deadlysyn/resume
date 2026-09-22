@@ -52,25 +52,16 @@ Seasoned incident responder who has led 1,000+ incidents, run on-call rotations,
 
 ### Key Skills
 
-**Cloud:** AWS (EC2, EKS, Elastic Beanstalk, VPC, IAM, S3, Route 53, Lambda, Elastic Load Balancing (ALB/NLB), RDS/Aurora, DynamoDB, ElastiCache, CloudWatch), Microsoft Azure, Google Cloud Platform, VMware vSphere
-
-**Containers and Orchestration:** Kubernetes, Amazon EKS, Docker, Helm, Kustomize, ArgoCD, FluxCD, Cloud Foundry, OpenStack
-
-**Infrastructure as Code:** Terraform, OpenTofu, Terragrunt, Packer, Ansible, Puppet, SaltStack, CFEngine CI/CD and GitOps: ArgoCD, FluxCD, GitHub Actions, GitLab CI, CircleCI, Jenkins, Concourse, Drone
-
-**Observability:** New Relic, Datadog, Prometheus, Grafana, CloudWatch, ELK, Graphite, Nagios, Sensu
-
-**Reliability and Incident Response:** SLOs and SLIs, incident management, on-call operations, postmortems, PagerDuty and the PagerDuty Incident Response framework
-
-**Core Infrastructure Services:** Load balancing, DNS, SMTP, LDAP
-
-**Programming and Scripting:** Bash, Go, Node.js, Python
-
-**Data Stores:** PostgreSQL, MySQL, Redis, Amazon Aurora/RDS, DynamoDB, ElastiCache
-
-**Security:** HashiCorp Vault, AWS IAM
-
-**Practices:** Site Reliability Engineering, DevOps, GitOps, Infrastructure as Code, Agile, Lean
+- **Cloud:** AWS (EC2, EKS, Elastic Beanstalk, VPC, IAM, S3, Route 53, Lambda, Elastic Load Balancing (ALB/NLB), RDS/Aurora, DynamoDB, ElastiCache, CloudWatch), Microsoft Azure, Google Cloud Platform, VMware vSphere
+- **Containers and Orchestration:** Kubernetes, Amazon EKS, Docker, Helm, Kustomize, ArgoCD, FluxCD, Cloud Foundry, OpenStack
+- **Infrastructure as Code:** Terraform, OpenTofu, Terragrunt, Packer, Ansible, Puppet, SaltStack, CFEngine CI/CD and GitOps: ArgoCD, FluxCD, GitHub Actions, GitLab CI, CircleCI, Jenkins, Concourse, Drone
+- **Observability:** New Relic, Datadog, Prometheus, Grafana, CloudWatch, ELK, Graphite, Nagios, Sensu
+- **Reliability and Incident Response:** SLOs and SLIs, incident management, on-call operations, postmortems, PagerDuty and the PagerDuty Incident Response framework
+- **Core Infrastructure Services:** Load balancing, DNS, SMTP, LDAP
+- **Programming and Scripting:** Bash, Go, Node.js, Python
+- **Data Stores:** PostgreSQL, MySQL, Redis, Amazon Aurora/RDS, DynamoDB, ElastiCache
+- **Security:** HashiCorp Vault, AWS IAM
+- **Practices:** Site Reliability Engineering, DevOps, GitOps, Infrastructure as Code, Agile, Lean
 
 ### Training
 
