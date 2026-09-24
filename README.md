@@ -6,15 +6,13 @@ me@deadlysyn.com | https://deadlysyn.com
 
 ### Professional Summary
 
-Senior Site Reliability and Infrastructure Engineer with nearly 30 years of experience building, scaling, and operating mission-critical systems. Most recently a Staff Site Reliability Engineer supporting a platform of 60+ Amazon EKS clusters, with deep expertise in AWS, Terraform and infrastructure as code, GitOps delivery (ArgoCD, Helm), observability, and SLO-driven reliability practices.
-
-Seasoned incident responder who has led 1,000+ incidents, run on-call rotations, written postmortems, and built incident management processes from scratch, later adapting the right parts of PagerDuty’s open-source Incident Response framework (as an early contributor) to what each organization actually needs. Known for establishing SLO programs from scratch, automating away toil, and teaching product teams to own the reliability of their services.
+Senior Site Reliability and Infrastructure Engineer with nearly 30 years of experience building, scaling, and operating mission-critical systems on AWS. Deep expertise in Kubernetes/EKS, Terraform and infrastructure as code, GitOps delivery (ArgoCD, Helm), and SLO-driven reliability practices, most recently supporting a 60+ cluster EKS platform. Seasoned incident responder who has led 1,000+ incidents and built incident management processes from scratch.
 
 ### Experience
 
 #### April 2024-September 2026 | Staff Site Reliability Engineer | Assured (https://assured.com)
 
-- Contributed Terraform modules, Terragrunt boilerplate, and ArgoCD manifests to the migration from Elastic Beanstalk to a 60+ cluster Amazon EKS platform, where new services ship as additional pods instead of new environments, simplifying delivery and accelerating innovation.
+- Contributed Terraform, Terragrunt, and ArgoCD manifests to migrate 60+ clusters from Elastic Beanstalk to Amazon EKS, letting new services ship as pods instead of new environments, cutting cost and speeding delivery.
 - Owned ongoing EKS cluster and ArgoCD upgrades for the platform.
 - Delivered new services through GitOps pipelines built on ArgoCD and Helm.
 - Established the company’s SLO practice from the ground up: identified ~30 customer-critical key transactions, instrumented the Node.js application, and codified the SLIs and SLOs in New Relic using Terraform.
@@ -24,7 +22,7 @@ Seasoned incident responder who has led 1,000+ incidents, run on-call rotations,
 
 #### April 2022-December 2023 | Sr. Site Reliability Engineer | Lattice (https://lattice.com)
 
-- Templatized infrastructure deployment with reusable Kubernetes and ArgoCD templates for common scenarios and an interactive menu-driven script, so even junior JavaScript engineers could answer a few questions and get a working Kubernetes service; cut the time to produce a Kubernetes and ArgoCD pull request from a full day to under an hour (8x).
+- Built reusable Kubernetes/ArgoCD templates and a menu-driven script that let junior engineers generate a working service in minutes, cutting PR turnaround from a day to under an hour (8x).
 - Enabled rapid adoption of new architecture patterns, particularly microfrontends, on a platform that previously ran only a few backend services.
 - Deployed ArgoCD to orchestrate deployments across a complex web of monolith and microservice dependencies.
 - Scaled the global Kubernetes footprint while meeting the demands of a complex regulatory environment.
@@ -52,12 +50,12 @@ Seasoned incident responder who has led 1,000+ incidents, run on-call rotations,
 
 ### Key Skills
 
-- **Cloud:** AWS (EC2, EKS, Elastic Beanstalk, VPC, IAM, S3, Route 53, Lambda, Elastic Load Balancing (ALB/NLB), RDS/Aurora, DynamoDB, ElastiCache, CloudWatch), Microsoft Azure, Google Cloud Platform, VMware vSphere
-- **Containers and Orchestration:** Kubernetes, Amazon EKS, Docker, Helm, Kustomize, ArgoCD, FluxCD, Cloud Foundry, OpenStack
+- **AWS:** EC2, EKS, Elastic Beanstalk, VPC, IAM, S3, Route 53, Lambda, API Gateway, WAF, Elastic Load Balancing (ALB/NLB), RDS/Aurora, DynamoDB, ElastiCache, CloudWatch
+- **Containers and Orchestration:** Kubernetes, Amazon EKS, Docker, Helm, Kustomize
 - **Infrastructure as Code:** Terraform, OpenTofu, Terragrunt, Packer, Ansible, Puppet, SaltStack, CFEngine CI/CD and GitOps: ArgoCD, FluxCD, GitHub Actions, GitLab CI, CircleCI, Jenkins, Concourse, Drone
-- **Observability:** New Relic, Datadog, Prometheus, Grafana, CloudWatch, ELK, Graphite, Nagios, Sensu
+- **Observability:** New Relic, Datadog, Prometheus, Grafana, ELK, Graphite, Nagios, Sensu
 - **Reliability and Incident Response:** SLOs and SLIs, incident management, on-call operations, postmortems, PagerDuty and the PagerDuty Incident Response framework
-- **Core Infrastructure Services:** Load balancing, DNS, SMTP, LDAP
+- **Core Infrastructure Services:** Linux/UNIX, Load balancing, DNS, SMTP, LDAP
 - **Programming and Scripting:** Bash, Go, Node.js, Python
 - **Data Stores:** PostgreSQL, MySQL, Redis, Amazon Aurora/RDS, DynamoDB, ElastiCache
 - **Security:** HashiCorp Vault, AWS IAM
